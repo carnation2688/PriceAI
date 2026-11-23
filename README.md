@@ -258,41 +258,4 @@ npm run collect:browser -- --url https://example.com/ --password your-admin-pass
 
 开始前建议先阅读 [CONTRIBUTING.md](./CONTRIBUTING.md)。涉及验证码、登录墙、WAF 或敏感凭据的站点，不应通过绕过限制的方式采集。
 
-## 商务合作与支持
 
-PriceAI 会长期维护官方订阅、卡网订阅、官方 API 和中转 API 的价格信息，也会持续补充渠道、指南、风险说明和公开数据口径。
-
-如果你觉得这个项目有帮助，可以通过以下方式支持：
-
-- 给仓库点一个 Star，帮助更多人发现 PriceAI。
-- 打开 [支持 PriceAI](https://priceai.cc/support)，或直接通过 [爱发电](https://ifdian.net/a/dimthink) / [Ko-fi](https://ko-fi.com/dimthink) 支持日常维护。
-- 在 Issue 或 PR 里补充渠道、报价口径、模型价格和文档修正。
-- 加入 Telegram / QQ 群反馈问题、提交线索或参与讨论。
-
-赞赏、赞助或商务合作不会影响 PriceAI 的客观排序、最低价计算、风险提示或渠道展示规则。
-
-如果你是 AI 周边服务、开发者工具、API Gateway、中转 API、云服务、网络检测、支付或账号安全相关服务方，可以通过 [Telegram 联系商务合作](https://t.me/dimthink)。
-
-商务合作会明确标注为广告、赞助、AFF 或合作关系，不会伪装成自然推荐，也不会直接改变客观排序。
-
-## License
-
-PriceAI 采用 [源码开放策略](./LICENSE)，不是无限制商业开源授权。
-
-允许：
-
-- 学习、研究和代码阅读。
-- 个人自用和本地部署。
-- 内部非商业使用。
-- 提交 Issue、PR 和改进建议。
-
-未经书面授权，不允许：
-
-- 将 PriceAI 或修改版作为公开网站 / SaaS 对外运营。
-- 在部署版本中接入广告、AFF、赞助位、付费导流或其他商业变现。
-- 运营与 PriceAI 定位相同或高度相似的比价、导航、数据聚合服务。
-- 使用 PriceAI 名称、Logo、截图、线上数据、渠道数据、价格快照或指南内容做商业服务。
-
-商业部署、品牌合作、赞助位、认证收录、数据合作或其他授权需求，请通过 [Telegram 联系商务合作](https://t.me/dimthink)。
-
-`PriceAI` 名称、Logo、域名、视觉品牌、线上生产数据、渠道数据、价格快照、指南内容、截图和公开素材不随源码一起授权。阅读、Fork 或本地二次开发时，请同时阅读 [数据与内容授权](./DATA_LICENSE.md) 和 [品牌与商标政策](./TRADEMARKS.md)；未经书面授权，不要公开部署、展示或运营会让用户误认为是官方 PriceAI 的服务。
